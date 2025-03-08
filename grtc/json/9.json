@@ -4,5 +4,8 @@
 "tip2": "São janelas, mais não literalmente",
 "tip3": "Pertence a uma empresa chamada Microsoft",
 "response": "windows",
-"similarity": "window;janela;janelas;microsoft"
+"similarity": "window",
+"similarity2": "janela",
+"similarity3": "janelas",
+"similarity4": "microsoft"
 }

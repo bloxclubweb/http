@@ -3,6 +3,9 @@
 "tip": "Você encontra isso em livros e cadernos",
 "tip2": "É fino e geralmente branco",
 "tip3": "Pode ser usado para escrever ou desenhar",
-"response": "folha;papel;página",
-"similarity": "caderno;livro"
+"response": "folha",
+"response2": "papel",
+"response3": "página",
+"similarity": "caderno",
+"similarity2": "livro"
 }
